@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FairData Analysis in Social Media
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nele
+    family-names: Sassor
+    email: nele.sassor@uni-potsdam.de
+    orcid: 'https://orcid.org/0009-0000-1858-1550'
+    affiliation: University of Potsdam
+  - given-names: Jan
+    family-names: Bernoth
+    email: jan.bernoth@uni-potsdam.de
+    affiliation: University of Potsdam
+    orcid: 'https://orcid.org/0000-0002-4127-0053'
+
+license: CC-BY-NC-4.0
